@@ -24,7 +24,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-3">
             <img 
-              src="public\assets\logo-cyprus-property.png" 
+              src="shadcn-ui/public/assets/logo-cyprus-property.png" 
               alt="" 
               className="h-12 w-auto"
             />
