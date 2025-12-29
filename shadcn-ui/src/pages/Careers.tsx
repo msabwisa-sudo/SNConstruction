@@ -90,27 +90,6 @@ export default function Careers() {
       type: 'Full-time',
       description: 'Drive sales strategy and marketing initiatives for premium property developments.',
     },
-    {
-      title: 'Architect',
-      department: 'Design',
-      location: 'Nicosia, Cyprus',
-      type: 'Full-time',
-      description: 'Create innovative architectural designs for luxury residential and commercial projects.',
-    },
-    {
-      title: 'Financial Analyst',
-      department: 'Finance',
-      location: 'Limassol, Cyprus',
-      type: 'Full-time',
-      description: 'Analyze investment opportunities, financial performance, and project feasibility.',
-    },
-    {
-      title: 'Construction Site Supervisor',
-      department: 'Construction',
-      location: 'Multiple Locations',
-      type: 'Full-time',
-      description: 'Supervise daily construction activities and ensure quality standards are met.',
-    },
   ];
 
   return (

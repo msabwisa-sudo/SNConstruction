@@ -18,17 +18,6 @@ export default function Index() {
       status: 'construction' as const,
     },
     {
-      id: '2',
-      name: 'Limassol Marina Residences',
-      location: 'Limassol, Cyprus',
-      image: '/assets/project-city-apartments.jpg',
-      type: 'Apartments',
-      units: 156,
-      completion: 'Q2 2026',
-      fundingPercentage: 92,
-      status: 'construction' as const,
-    },
-    {
       id: '3',
       name: 'Nicosia Urban Residences',
       location: 'Nicosia, Cyprus',
