@@ -29,17 +29,6 @@ export default function Projects() {
         fundingPercentage: 65,
         status: 'construction' as const,
     },
-    {
-      id: '3',
-      name: 'Cyprus Golf & Spa Resort',
-      location: 'Ayia Napa, Cyprus',
-      image: '/assets/project-golf-resort_variant_1.jpg',
-      type: 'Resort Development',
-      units: 48,
-      completion: 'Q1 2027',
-      fundingPercentage: 45,
-      status: 'planning' as const,
-    },
   ];
 
   const filteredProjects = projects.filter((project) => {
