@@ -261,14 +261,14 @@ export default function About() {
               href="tel:+35799548544"
               className="font-montserrat text-lg hover:text-[#C1A875] transition-colors"
             >
-              📞 +357 99 548 544
+              📞 +357 99 548 544 / +357 99 291 379
             </a>
             <span className="hidden sm:inline text-[#C1A875]">|</span>
             <a
-              href="mailto:Contact@s-n-contruction.com"
+              href="mailto:s.n.limited2022@gmail.com"
               className="font-montserrat text-lg hover:text-[#C1A875] transition-colors"
             >
-              ✉️ Contact@s-n-contruction.com
+              ✉️ s.n.limited2022@gmail.com
             </a>
           </div>
         </div>
