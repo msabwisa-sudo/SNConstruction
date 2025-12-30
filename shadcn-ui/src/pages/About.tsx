@@ -29,13 +29,13 @@ export default function About() {
     {
       name: 'Savvas Ibrahim',
       role: 'Co-Founder',
-      image: '',
+      image: '/assets/s-Ibra.jpg',
       bio: '25+ years of experience in Cyprus real estate development',
     },
     {
       name: 'Nikola Ibrahim',
       role: 'Co-Founder',
-      image: '',
+      image: '/assets/N-ibra.jpg',
       bio: 'Expert in property investment strategies and portfolio management',
     },
   ];
