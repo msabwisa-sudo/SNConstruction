@@ -373,14 +373,14 @@ export default function Careers() {
               href="mailto:careers@snconstruction.com"
               className="font-montserrat text-lg text-[#C1A875] hover:text-[#A68F5F] transition-colors"
             >
-              ✉️ careers@snconstruction.com
+              ✉️ s.n.limited2022@gmail.com
             </a>
             <span className="hidden sm:inline text-[#C1A875]">|</span>
             <a
               href="tel:+35725123456"
               className="font-montserrat text-lg text-[#C1A875] hover:text-[#A68F5F] transition-colors"
             >
-              📞 +357 25 123 456
+              📞 +357 99 548 544 / +357 99 291 379
             </a>
           </div>
         </div>

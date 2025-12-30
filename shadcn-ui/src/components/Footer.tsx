@@ -55,12 +55,12 @@ export default function Footer() {
               <li className="flex items-start space-x-3">
                 <MapPin size={18} className="mt-1 flex-shrink-0 text-[#C1A875]" />
                 <span className="text-gray-300">
-                  123 Limassol Marina, 3042 Limassol, Cyprus
+                  Potamia, Cyprus
                 </span>
               </li>
               <li className="flex items-center space-x-3">
                 <Phone size={18} className="flex-shrink-0 text-[#C1A875]" />
-                <span className="text-gray-300">+357 99 548 544</span>
+                <span className="text-gray-300">+357 99 548 544 / +357 99 291 379</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Mail size={18} className="flex-shrink-0 text-[#C1A875]" />
